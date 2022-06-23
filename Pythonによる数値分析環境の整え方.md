@@ -1,4 +1,4 @@
-# Pythonによる数値分析環境の整え方 <div style="font-size:9pt;text-align:right;">2022/06/23 Marpyong</div>
+# Pythonによる数値分析環境の整え方
 
 ## 1.Intoroduction
 MatLabと同等かつ、それ以上(高度な推定・分類モデル作成)が可能な
